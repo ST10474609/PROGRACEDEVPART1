@@ -148,7 +148,7 @@ In the video, I will explain the planning documents, walk through my ERD and its
 
 **YouTube Video:**
 
-`[INSERT MY UNLISTED YOUTUBE LINK HERE]`
+`[https://youtu.be/oQiN9OmZ4FA]`
 
 ## AI Use Disclosure
 
